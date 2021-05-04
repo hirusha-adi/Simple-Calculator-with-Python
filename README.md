@@ -16,3 +16,8 @@ You can add. substract, multiply and the find the powers!
 
 # Other Info:
 You can either click the button to enter numbers or you can type them directly on the Entry Box
+
+# Images
+
+![image](https://user-images.githubusercontent.com/36286877/116991414-23588900-acf2-11eb-97bb-3145ab1488c1.png)
+
