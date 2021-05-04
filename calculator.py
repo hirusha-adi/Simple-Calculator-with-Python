@@ -5,6 +5,7 @@ from tkinter import messagebox
 window = Tk()
 window.title("Calculator")
 window ['background'] = '#333333'
+window.iconbitmap("dont_start_without_this.ico")
 
 def entireprogram():
     e = Entry(window, width=26, borderwidth=5)
