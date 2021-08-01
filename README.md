@@ -21,3 +21,4 @@ You can either click the button to enter numbers or you can type them directly o
 
 ![image](https://user-images.githubusercontent.com/36286877/116991414-23588900-acf2-11eb-97bb-3145ab1488c1.png)
 
+![calculator](https://user-images.githubusercontent.com/36286877/127769028-80ad6ff6-9a89-4265-94d5-fb0182a4edda.png)
