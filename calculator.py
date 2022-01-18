@@ -7,7 +7,10 @@ window.title("Calculator")
 window ['background'] = '#333333'
 window.iconbitmap("dont_start_without_this.ico")
 
+e = None
+
 def entireprogram():
+    global e
     e = Entry(window, width=26, borderwidth=5)
     e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
